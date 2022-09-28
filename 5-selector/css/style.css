@@ -1,18 +1,5 @@
+/* Je suis un commentaire css */
 body {
-    color: orange;
-    font-size: 20px;
+    /* color: orange; */
 }
 
-
-.titre {
-    color: black;
-}
-
-h1 {
-    font-size: 20px;
-    color: red;
-}
-
-span {
-    color: blue;
-}
