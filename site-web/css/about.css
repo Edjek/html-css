@@ -1,0 +1,25 @@
+.about-us {
+    border: 1px solid #000;
+    width: 90%;
+    max-width: 1000px;
+    min-width: 400px;
+    margin: 0 auto;
+    padding: 50px 20px;
+    text-align: center;
+    min-height: 300px;
+}
+
+.about-us h2 {
+    text-transform: uppercase;
+    margin-bottom: 30px;
+    font-family: 'Nunito', sans-serif;
+    font-size: 30px;
+}
+
+.about-us a {
+    color: rgb(222, 55, 55);
+}
+
+.about-us a:hover {
+    color: pink;
+}

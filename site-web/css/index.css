@@ -1,0 +1,21 @@
+.hero {
+    background-color: green;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    color: #fff;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.783),transparent), url(../img/tour-eiffel.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom ;
+}
+
+.hero a {
+    color: #fff;
+    background-color: #115a11;
+    padding: 10px 30px;
+    border-radius: 5px;
+}
